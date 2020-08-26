@@ -1,5 +1,4 @@
-*{box-sizing: border-box;
-background-color: aquamarine;}
+*{box-sizing: border-box;}
   
       .title-container {
     width: 90%;
@@ -46,7 +45,7 @@ background-color: aquamarine;}
   @media (min-width: 992px) {
     .col-lg-4 {
       float: left;
-      background-color: white;
+      background-color: antiquewhite;
       width: 33.33%;
     }
   }
@@ -54,7 +53,7 @@ background-color: aquamarine;}
   @media (min-width: 768px) and (max-width: 991px) {
     .col-md-6, .col-md-12 {
       float: left;
-      background-color: white;
+      background-color: antiquewhite;
     }
     .col-md-6 {
       width: 50%;
@@ -66,6 +65,6 @@ background-color: aquamarine;}
   
   @media (max-width: 767px) {.col-sm-12 {
       float: left;
-      background-color: white;
+      background-color: antiquewhite;
       width: 100%;}
   }
